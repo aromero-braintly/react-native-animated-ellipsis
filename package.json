@@ -1,18 +1,18 @@
 {
   "name": "react-native-animated-ellipsis",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A simple, customizable animated dots component for use in React Native apps. Ideal for loading screens.",
   "main": "dist/AnimatedEllipsis.js",
   "scripts": {
     "build": "babel src/ -d dist",
     "prepare": "npm run build"
   },
-  "author": "Casey Brant <casey@adorable.io>",
+  "author": "Andres Romero <andres.romero@braintly.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adorableio/react-native-animated-ellipsis.git"
+    "url": "git+https://github.com/aromero-braintly/react-native-animated-ellipsis.git"
   },
-  "homepage": "https://github.com/adorableio/react-native-animated-ellipsis",
+  "homepage": "https://github.com/aromero-braintly/react-native-animated-ellipsis",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",
